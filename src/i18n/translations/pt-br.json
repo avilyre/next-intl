@@ -1,5 +1,8 @@
 {
   "homePage": {
     "title": "Página Inicial"
+  },
+  "about": {
+    "title": "Sobre"
   }
 }

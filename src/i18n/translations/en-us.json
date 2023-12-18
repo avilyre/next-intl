@@ -1,5 +1,8 @@
 {
   "homePage": {
     "title": "Home Page"
+  },
+  "about": {
+    "title": "About"
   }
 }
